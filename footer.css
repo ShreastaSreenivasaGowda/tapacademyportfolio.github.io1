@@ -1,0 +1,306 @@
+#f1{
+    background-color: #008080;
+    color: #ffffff;
+    margin-bottom: -8px;
+    margin-left: -7px;
+    margin-right: -8px;
+}
+
+.f2{
+    color: white;
+}
+
+.big:hover {
+    transform: scale(1.1) translateX(20px);
+}
+
+#i2{
+    background-color: #F8F0E5;
+}
+
+#i3{
+    margin-top:-10px;
+    margin-left: -7px;
+    margin-right: -8px;
+    background-color:#E1C78F;
+   
+}
+
+#i4{
+    text-decoration: none;
+}
+
+#i7{
+    margin-left: 75px;
+    margin-right: 65px;
+    margin-top:45px;
+    padding-left: 25px;
+    padding-right: 30px;
+}
+
+#i9::first-letter {
+    font-size: 30px;
+}
+
+#i10:hover{
+    color:black;
+}
+
+#i10{
+    text-decoration: none;
+    font-size: large;
+    display: inline-block;
+    padding: 10px 20px; 
+    background-color:#FF9B82; 
+    color: #fff;
+    border: none;
+    border-radius: 10px; 
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.ci:hover {
+    border-bottom: 4px solid black;
+    border-radius: 2px;
+  }
+
+#i9{
+    text-align: justify;
+    margin-left: 35px;
+}
+
+#i8{
+    margin-left:35px ;
+    color:chocolate;
+}
+
+#i10{
+    margin-left:35px ;
+}
+
+
+#i13,#i17 ,#i21{
+   margin-left: 18%;
+   margin-right: 18%;
+   border-style:outset;
+   border-width: 4px;
+}
+
+
+#i11,#i14,#i18,#i22{
+    color:chocolate;
+}
+
+#i12{
+    text-align:justify ;
+}
+
+#i16,#i20,#i24{
+    font-size: 20px;
+}
+#i11{
+    margin-left: 35px;
+    font-family:"math";
+}
+
+#i25{
+    color:chocolate;
+}
+
+#i27{
+    color: #F31559;
+}
+
+#i33{
+    color: #99627A;
+}
+
+#i35{
+    color: #30475E;
+}
+
+#i37{
+    color:black;
+}
+
+#i38{
+    color:indianred;;
+    font-size: 23px;
+}
+
+#i30{
+    color:#DB005B;
+}
+
+#i39{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 18px;
+}
+#span{
+    font-size: 10px;
+}
+
+
+#c3{
+    font-family:cursive;
+    color: brown;
+}
+
+#c4{
+    font-family: 'Futura';
+}
+
+#c5 ,#c9 ,#c13{
+    border-style: inset;
+    margin-left: 18%;
+    margin-right: 18%;
+    text-align: center;
+}
+
+#c6,#c10,#c14{
+    font-family: Tahoma;
+}
+
+#c7,#c11,#c15{
+    font-family: Garamond;
+}
+
+#c8,#c12,#c16{
+    text-decoration: none;
+    font-family: 'Palatino Linotype';
+    color: #F31559;
+}
+
+#p17{
+    text-decoration: none;
+    font-size: large;
+    display: inline-block;
+    padding: 10px 20px; 
+    background-color:#F31559; 
+    color: #fff;
+    border: none;
+    border-radius: 10px; 
+    text-align: center;
+    text-decoration: none;
+    width: 12%;
+}
+
+#c8:hover,#c12:hover,#c16:hover{
+    color: #09b136;
+}
+
+#p1{  
+    font-size: 65px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#p5{
+    color:#DB005B;
+}
+
+#p6{
+    text-decoration: none;
+    font-size: large;
+    display: inline-block;
+    padding: 10px 20px; 
+    background-color:#FF6969; 
+    color: #fff;
+    border: none;
+    border-radius: 10px; 
+    text-align: center;
+    text-decoration: none;
+}
+
+#p6:hover{
+    color:black;
+}
+
+#p17:hover{
+    color:black;
+}
+
+#image{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top:3%;
+}
+
+#b1{
+    color: #6C3428;
+    font-size: 45px;
+    border:2px dotted #321E1E ;
+    margin-left: 23%;
+    margin-right: 23%;
+    padding: 0%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#b4,#b8,#b12{
+    color: #6c1414;
+    font-size:xx-large;
+    text-align: center;
+}
+
+#b9,#b10{
+    text-align: justify;
+}
+
+#d1{
+    font-size:25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#bt1{
+    font-size: 40px;
+    color: #6c1414;
+}
+
+#bt2{
+    font-size:22px ;
+}
+
+#fs1{
+    color: #6c1414;
+    font-size: 45px;
+}
+
+#fs3,#fs4,#fs5{
+    font-size: 30px;
+}
+
+#fs7{
+    font-size: 25px;
+    color:#862B0D;
+}
+
+#fs8{
+    color: #6c1414;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
